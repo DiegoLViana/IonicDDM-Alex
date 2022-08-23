@@ -1,3 +1,3 @@
-# ionic6-angular13-ahafzx
+# Ionic-DDM
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/ionic6-angular13-ahafzx)
